@@ -1,0 +1,4 @@
+1. docker
+2. python
+ 2.1. python virtualenv
+3. git
